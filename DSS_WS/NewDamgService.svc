@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="DSS_WS.NewDamgService" CodeBehind="NewDamgService.svc.vb" %>
